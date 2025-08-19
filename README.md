@@ -24,18 +24,7 @@ It allows users to login, view resources, and admins to manage resources.
 
 ---
 
-## 📂 Folder Structure
-frontend/
-│── src/
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Login, Dashboard, etc.
-│ ├── App.jsx # Routes
-│ └── main.jsx # Entry point
-│── package.json
-└── README.md
-
 yaml
-Copy code
 
 ---
 
