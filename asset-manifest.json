@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hemhemaKK/frontend_fullstack.git/static/css/main.e6c13ad2.css",
+    "main.js": "/hemhemaKK/frontend_fullstack.git/static/js/main.1aae4465.js",
+    "static/js/453.670e15c7.chunk.js": "/hemhemaKK/frontend_fullstack.git/static/js/453.670e15c7.chunk.js",
+    "index.html": "/hemhemaKK/frontend_fullstack.git/index.html",
+    "main.e6c13ad2.css.map": "/hemhemaKK/frontend_fullstack.git/static/css/main.e6c13ad2.css.map",
+    "main.1aae4465.js.map": "/hemhemaKK/frontend_fullstack.git/static/js/main.1aae4465.js.map",
+    "453.670e15c7.chunk.js.map": "/hemhemaKK/frontend_fullstack.git/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1aae4465.js"
+  ]
+}
